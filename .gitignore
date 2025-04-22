@@ -1,0 +1,6 @@
+Dataset/
+aug/
+uploads/
+.conda/
+__pycache__/
+.venv/
